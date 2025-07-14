@@ -1,0 +1,8 @@
+{
+  "name": "reader-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Start Electron App Here'"
+  }
+}

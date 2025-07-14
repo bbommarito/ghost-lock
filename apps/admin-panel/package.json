@@ -1,0 +1,7 @@
+{
+  "name": "admin-panel",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "echo 'Start Admin Panel'"
+  }
+}

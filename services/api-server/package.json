@@ -1,0 +1,7 @@
+{
+  "name": "api-server",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "echo 'Start API Server'"
+  }
+}

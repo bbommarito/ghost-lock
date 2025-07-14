@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+
+# Logs
+yarn-debug.log*
+yarn-error.log*
+npm-debug.log*
+
+# MacOS system files
+.DS_Store
+
+# Env files
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+
+# IDE files
+.idea
+.vscode
+
+# Typescript compiled JavaScript
+*.js
+
+# Webpack
+.webpack
+
+# Parcel cache
+.cache
+
+# Next.js build output
+.next/

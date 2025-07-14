@@ -1,0 +1,25 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  apps/admin-panel: {}
+
+  apps/reader-app: {}
+
+  apps/web-dashboard: {}
+
+  packages/shared-types: {}
+
+  packages/signing-lib: {}
+
+  packages/utils: {}
+
+  services/api-server: {}
+
+  services/oauth-server: {}
