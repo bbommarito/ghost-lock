@@ -25,4 +25,4 @@ All subfolders in `apps/`, `services/`, and `packages/` are registered as pnpm w
 
 ---
 
-🔐 Built for privacy-first authentication. Learn more at [GhostLock.io](https://ghostlock.io) *(coming soon)*
+🔐 Built for privacy-first authentication. Learn more at [GhostLock.io](https://ghostlock.io) _(coming soon)_
