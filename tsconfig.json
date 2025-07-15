@@ -10,7 +10,13 @@
     "baseUrl": ".",
     "paths": {
       "@ghostlock/*": ["packages/*"]
-    }
+    },
+    "composite": true
   },
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules"],
+  "references": [
+    {
+      "path": "./packages/shared-types"
+    },
+  ]
 }
